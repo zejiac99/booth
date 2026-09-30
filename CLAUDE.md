@@ -16,6 +16,6 @@ If it isn't clear which course I mean, ask.
 ## Conventions
 
 - Quarter folders: `YYYY-season` (e.g. `2026-autumn`).
-- Course folders: short lowercase-hyphenated names (e.g. `corporate-finance`).
+- Course folders: `BUSN ##### - Course Title` (e.g. `BUSN 30000 - Financial Accounting`). Quote paths in shell commands because of the spaces.
 - Each course folder has its own `CLAUDE.md` with course-specific context.
-- Keep large binary files (PDFs, datasets) out of git unless I say otherwise; see `.gitignore`.
+- Course documents (PDFs, slides, docx, readings) are committed to git on purpose. Only archives such as `.zip` are ignored; see `.gitignore`. Flag it if a single file gets very large (roughly 50 MB or more).
