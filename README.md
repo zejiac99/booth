@@ -8,9 +8,8 @@ Coursework for my time at Chicago Booth. Everything lives on `main`, with one fo
 booth/
 ├── 2026-autumn/
 │   └── BUSN 30000 - Financial Accounting/
-│       ├── CLAUDE.md
 │       ├── <syllabus, slides, notes>
-│       └── week 1 <topic>/        # optional per-week folders for readings/assignments
+│       └── Week 1 - <Topic>/      # optional per-week folders for readings/assignments
 ├── 2027-winter/
 │   └── ...
 └── ...
@@ -18,7 +17,7 @@ booth/
 
 - Quarter folders are named `YYYY-season` (`autumn`, `winter`, `spring`, `summer`) so they sort chronologically.
 - Course folders are named `BUSN ##### - Course Title`, using the official course number and title.
-- Inside a course folder the structure is free-form. Weekly folders are fine.
+- Inside a course folder the structure is free-form. Weekly folders are named `Week N - Topic`.
 
 ## Quarters
 
